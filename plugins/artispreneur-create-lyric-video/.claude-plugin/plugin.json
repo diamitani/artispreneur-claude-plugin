@@ -1,0 +1,28 @@
+{
+  "name": "artispreneur-create-lyric-video",
+  "displayName": "Artispreneur Lyric Video",
+  "version": "1.2.0",
+  "description": "Lyric Video: Plan a kinetic lyric video: timed lyric lines, format, style and a scene list ready for an editor to render. Use when an artist, manager or label asks for this (Content & marketing). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+  "author": {
+    "name": "Artispreneur Inc.",
+    "url": "https://www.artispreneur.com"
+  },
+  "homepage": "https://www.artispreneur.com/developers",
+  "repository": "https://github.com/diamitani/artispreneur-claude-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "lyric-video",
+    "music-video",
+    "visualizer",
+    "content-and-marketing",
+    "music",
+    "music-business",
+    "independent-artists",
+    "artispreneur"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.artispreneur.com/developers",
+  "supportUrl": "https://www.artispreneur.com/support",
+  "privacyPolicyUrl": "https://www.artispreneur.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.artispreneur.com/legal/terms"
+}

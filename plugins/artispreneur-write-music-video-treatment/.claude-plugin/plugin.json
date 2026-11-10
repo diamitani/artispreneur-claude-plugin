@@ -1,0 +1,28 @@
+{
+  "name": "artispreneur-write-music-video-treatment",
+  "displayName": "Artispreneur Video Treatment",
+  "version": "1.2.0",
+  "description": "Video Treatment: A shoot-ready treatment a director or friend-with-a-camera can run with. Use when an artist, manager or label asks for this (Content & marketing). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+  "author": {
+    "name": "Artispreneur Inc.",
+    "url": "https://www.artispreneur.com"
+  },
+  "homepage": "https://www.artispreneur.com/developers",
+  "repository": "https://github.com/diamitani/artispreneur-claude-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "video-treatment",
+    "video-concept",
+    "shot-list",
+    "content-and-marketing",
+    "music",
+    "music-business",
+    "independent-artists",
+    "artispreneur"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.artispreneur.com/developers",
+  "supportUrl": "https://www.artispreneur.com/support",
+  "privacyPolicyUrl": "https://www.artispreneur.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.artispreneur.com/legal/terms"
+}

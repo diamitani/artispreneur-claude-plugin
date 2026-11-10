@@ -1,0 +1,29 @@
+{
+  "name": "artispreneur-set-up-dsp",
+  "displayName": "Artispreneur DSP Setup",
+  "version": "1.2.0",
+  "description": "DSP Setup: Claim and polish your artist profiles on every streaming service. Use when an artist, manager or label asks for this (Release & DSP). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+  "author": {
+    "name": "Artispreneur Inc.",
+    "url": "https://www.artispreneur.com"
+  },
+  "homepage": "https://www.artispreneur.com/developers",
+  "repository": "https://github.com/diamitani/artispreneur-claude-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "spotify-for-artists",
+    "apple-music-for-artists",
+    "dsp",
+    "dsp-setup",
+    "release-and-dsp",
+    "music",
+    "music-business",
+    "independent-artists",
+    "artispreneur"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.artispreneur.com/developers",
+  "supportUrl": "https://www.artispreneur.com/support",
+  "privacyPolicyUrl": "https://www.artispreneur.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.artispreneur.com/legal/terms"
+}

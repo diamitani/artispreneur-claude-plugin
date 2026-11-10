@@ -1,0 +1,31 @@
+{
+  "name": "artispreneur-register-with-pro",
+  "displayName": "Artispreneur PRO Registration",
+  "version": "1.2.0",
+  "description": "PRO Registration: Join ASCAP, BMI, or SESAC the right way — writer and publisher. Use when an artist, manager or label asks for this (Publishing & PRO). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+  "author": {
+    "name": "Artispreneur Inc.",
+    "url": "https://www.artispreneur.com"
+  },
+  "homepage": "https://www.artispreneur.com/developers",
+  "repository": "https://github.com/diamitani/artispreneur-claude-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "pro",
+    "ascap",
+    "bmi",
+    "sesac",
+    "performing-rights",
+    "pro-registration",
+    "publishing-and-pro",
+    "music",
+    "music-business",
+    "independent-artists",
+    "artispreneur"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.artispreneur.com/developers",
+  "supportUrl": "https://www.artispreneur.com/support",
+  "privacyPolicyUrl": "https://www.artispreneur.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.artispreneur.com/legal/terms"
+}

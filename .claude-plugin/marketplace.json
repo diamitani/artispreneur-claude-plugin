@@ -1,0 +1,1634 @@
+{
+  "name": "artispreneur",
+  "description": "Artispreneur's Claude Code plugin marketplace: music-business skills and desk agents for independent artists.",
+  "owner": {
+    "name": "Artispreneur Inc.",
+    "url": "https://www.artispreneur.com"
+  },
+  "plugins": [
+    {
+      "name": "artispreneur",
+      "source": "./plugins/artispreneur",
+      "description": "Music-business skills and desk agents for independent artists, managers and labels: EPKs, bios, release plans, royalties and PRO registration, business setup, content, booking and outreach. Bundles the free, read-only Artispreneur MCP server. Drafts only; nothing is sent, filed or paid.",
+      "category": "productivity",
+      "tags": [
+        "music",
+        "artists",
+        "epk",
+        "release-planning",
+        "royalties"
+      ]
+    },
+    {
+      "name": "artispreneur-create-an-epk",
+      "source": "./plugins/artispreneur-create-an-epk",
+      "displayName": "Artispreneur EPK Builder",
+      "description": "EPK Builder: A press kit built for the person reading it — booker, press, brand, or festival. Use when an artist, manager or label asks for this (Studio). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "studio",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "studio",
+        "press-team",
+        "epk",
+        "electronic-press-kit",
+        "press-kit",
+        "one-sheet"
+      ],
+      "keywords": [
+        "epk",
+        "electronic-press-kit",
+        "press-kit",
+        "one-sheet",
+        "epk-builder",
+        "studio",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-create-an-artist-bio",
+      "source": "./plugins/artispreneur-create-an-artist-bio",
+      "displayName": "Artispreneur Artist Bio Writer",
+      "description": "Artist Bio Writer: One story, told at every length you'll ever need. Use when an artist, manager or label asks for this (Studio). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "studio",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "studio",
+        "press-team",
+        "artist-bio",
+        "musician-biography",
+        "press-bio"
+      ],
+      "keywords": [
+        "artist-bio",
+        "musician-biography",
+        "press-bio",
+        "artist-bio-writer",
+        "studio",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-create-brand-logo",
+      "source": "./plugins/artispreneur-create-brand-logo",
+      "displayName": "Artispreneur Brand Logo",
+      "description": "Brand Logo: A logo brief a designer (or Canva) can execute on day one. Use when an artist, manager or label asks for this (Studio). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "studio",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "studio",
+        "business-team",
+        "logo",
+        "wordmark",
+        "brand-identity"
+      ],
+      "keywords": [
+        "logo",
+        "wordmark",
+        "brand-identity",
+        "brand-logo",
+        "studio",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-write-brand-guidelines",
+      "source": "./plugins/artispreneur-write-brand-guidelines",
+      "displayName": "Artispreneur Brand Guidelines",
+      "description": "Brand Guidelines: Your brand bible: voice, visuals, and rules everyone follows. Use when an artist, manager or label asks for this (Studio). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "studio",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "studio",
+        "business-team",
+        "brand-guidelines",
+        "brand-book",
+        "style-guide"
+      ],
+      "keywords": [
+        "brand-guidelines",
+        "brand-book",
+        "style-guide",
+        "studio",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-create-split-sheet-agreement",
+      "source": "./plugins/artispreneur-create-split-sheet-agreement",
+      "displayName": "Artispreneur Split Sheet Agreement",
+      "description": "Split Sheet Agreement: Everyone's share, in writing, before the song blows up. Use when an artist, manager or label asks for this (Contracts). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "contracts",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "contracts",
+        "business-team",
+        "split-sheet",
+        "songwriter-splits",
+        "co-writing"
+      ],
+      "keywords": [
+        "split-sheet",
+        "songwriter-splits",
+        "co-writing",
+        "split-sheet-agreement",
+        "contracts",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-license-music",
+      "source": "./plugins/artispreneur-license-music",
+      "displayName": "Artispreneur Music Licensing Brief",
+      "description": "Music Licensing Brief: Pitch-ready sync briefs and licensing basics, in plain English. Use when an artist, manager or label asks for this (Contracts). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "contracts",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "contracts",
+        "business-team",
+        "sync-licensing",
+        "music-licensing",
+        "sync-brief"
+      ],
+      "keywords": [
+        "sync-licensing",
+        "music-licensing",
+        "sync-brief",
+        "music-licensing-brief",
+        "contracts",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-get-ein",
+      "source": "./plugins/artispreneur-get-ein",
+      "displayName": "Artispreneur EIN Registration",
+      "description": "EIN Registration: Your federal tax ID — free from the IRS, done step by step. Use when an artist, manager or label asks for this (Legal entity). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "legal-entity",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "legal-entity",
+        "business-team",
+        "ein",
+        "irs",
+        "tax-id"
+      ],
+      "keywords": [
+        "ein",
+        "irs",
+        "tax-id",
+        "ein-registration",
+        "legal-entity",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-create-llc",
+      "source": "./plugins/artispreneur-create-llc",
+      "displayName": "Artispreneur LLC Formation",
+      "description": "LLC Formation: Separate your music money from your personal money. Use when an artist, manager or label asks for this (Legal entity). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "legal-entity",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "legal-entity",
+        "business-team",
+        "llc",
+        "business-formation",
+        "music-llc"
+      ],
+      "keywords": [
+        "llc",
+        "business-formation",
+        "music-llc",
+        "llc-formation",
+        "legal-entity",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-create-c-corp",
+      "source": "./plugins/artispreneur-create-c-corp",
+      "displayName": "Artispreneur C-Corp Formation",
+      "description": "C-Corp Formation: Incorporate for investors, a label, or scale — with eyes open. Use when an artist, manager or label asks for this (Legal entity). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "legal-entity",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "legal-entity",
+        "business-team",
+        "c-corp",
+        "incorporation"
+      ],
+      "keywords": [
+        "c-corp",
+        "incorporation",
+        "c-corp-formation",
+        "legal-entity",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-open-business-bank-account",
+      "source": "./plugins/artispreneur-open-business-bank-account",
+      "displayName": "Artispreneur Business Bank Account",
+      "description": "Business Bank Account: Walk into the bank (or app) with everything they'll ask for. Use when an artist, manager or label asks for this (Finance). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "finance",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "finance",
+        "business-team",
+        "business-bank-account",
+        "banking"
+      ],
+      "keywords": [
+        "business-bank-account",
+        "banking",
+        "finance",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-manage-business-expenses",
+      "source": "./plugins/artispreneur-manage-business-expenses",
+      "displayName": "Artispreneur Expense Manager",
+      "description": "Expense Manager: Know where every dollar goes — and keep the receipts that save you taxes. Use when an artist, manager or label asks for this (Finance). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "finance",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "finance",
+        "business-team",
+        "expenses",
+        "bookkeeping",
+        "receipts"
+      ],
+      "keywords": [
+        "expenses",
+        "bookkeeping",
+        "receipts",
+        "expense-manager",
+        "finance",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-file-business-taxes",
+      "source": "./plugins/artispreneur-file-business-taxes",
+      "displayName": "Artispreneur Business Tax Filing",
+      "description": "Business Tax Filing: Get organized for tax season instead of panicking through it. Use when an artist, manager or label asks for this (Finance). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "finance",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "finance",
+        "business-team",
+        "taxes",
+        "tax-filing",
+        "schedule-c",
+        "1099"
+      ],
+      "keywords": [
+        "taxes",
+        "tax-filing",
+        "schedule-c",
+        "1099",
+        "business-tax-filing",
+        "finance",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-track-royalties-on-dsps",
+      "source": "./plugins/artispreneur-track-royalties-on-dsps",
+      "displayName": "Artispreneur Royalty Tracker",
+      "description": "Royalty Tracker: Every royalty stream in one tracker, so nothing slips through. Use when an artist, manager or label asks for this (Finance). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "finance",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "finance",
+        "release-team",
+        "royalties",
+        "streaming-royalties",
+        "royalty-tracking"
+      ],
+      "keywords": [
+        "royalties",
+        "streaming-royalties",
+        "royalty-tracking",
+        "royalty-tracker",
+        "finance",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-write-a-business-plan",
+      "source": "./plugins/artispreneur-write-a-business-plan",
+      "displayName": "Artispreneur Business Plan",
+      "description": "Business Plan: A real plan with real numbers — for you, a partner, or a lender. Use when an artist, manager or label asks for this (Finance). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "finance",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "finance",
+        "home-base",
+        "business-plan",
+        "music-business-plan"
+      ],
+      "keywords": [
+        "business-plan",
+        "music-business-plan",
+        "finance",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-register-with-pro",
+      "source": "./plugins/artispreneur-register-with-pro",
+      "displayName": "Artispreneur PRO Registration",
+      "description": "PRO Registration: Join ASCAP, BMI, or SESAC the right way — writer and publisher. Use when an artist, manager or label asks for this (Publishing & PRO). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "publishing-and-pro",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "publishing-and-pro",
+        "release-team",
+        "pro",
+        "ascap",
+        "bmi",
+        "sesac",
+        "performing-rights"
+      ],
+      "keywords": [
+        "pro",
+        "ascap",
+        "bmi",
+        "sesac",
+        "performing-rights",
+        "pro-registration",
+        "publishing-and-pro",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-register-tracks-with-pro",
+      "source": "./plugins/artispreneur-register-tracks-with-pro",
+      "displayName": "Artispreneur Track Registration",
+      "description": "Track Registration: Register every song so royalties can actually find you. Use when an artist, manager or label asks for this (Publishing & PRO). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "publishing-and-pro",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "publishing-and-pro",
+        "release-team",
+        "song-registration",
+        "ascap",
+        "bmi",
+        "the-mlc",
+        "publishing"
+      ],
+      "keywords": [
+        "song-registration",
+        "ascap",
+        "bmi",
+        "the-mlc",
+        "publishing",
+        "track-registration",
+        "publishing-and-pro",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-claim-tracks-with-pro",
+      "source": "./plugins/artispreneur-claim-tracks-with-pro",
+      "displayName": "Artispreneur Unclaimed Royalties",
+      "description": "Unclaimed Royalties: Find and claim royalties already owed to you. Use when an artist, manager or label asks for this (Publishing & PRO). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "publishing-and-pro",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "publishing-and-pro",
+        "release-team",
+        "unclaimed-royalties",
+        "black-box-royalties",
+        "the-mlc",
+        "soundexchange"
+      ],
+      "keywords": [
+        "unclaimed-royalties",
+        "black-box-royalties",
+        "the-mlc",
+        "soundexchange",
+        "publishing-and-pro",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-set-up-dsp",
+      "source": "./plugins/artispreneur-set-up-dsp",
+      "displayName": "Artispreneur DSP Setup",
+      "description": "DSP Setup: Claim and polish your artist profiles on every streaming service. Use when an artist, manager or label asks for this (Release & DSP). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "release-and-dsp",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "release-and-dsp",
+        "release-team",
+        "spotify-for-artists",
+        "apple-music-for-artists",
+        "dsp"
+      ],
+      "keywords": [
+        "spotify-for-artists",
+        "apple-music-for-artists",
+        "dsp",
+        "dsp-setup",
+        "release-and-dsp",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-release-music-with-dsp",
+      "source": "./plugins/artispreneur-release-music-with-dsp",
+      "displayName": "Artispreneur Release Engine",
+      "description": "Release Engine: A release plan that works backward from drop day. Use when an artist, manager or label asks for this (Release & DSP). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "release-and-dsp",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "release-and-dsp",
+        "release-team",
+        "release-plan",
+        "rollout",
+        "music-distribution",
+        "spotify-pitch"
+      ],
+      "keywords": [
+        "release-plan",
+        "rollout",
+        "music-distribution",
+        "spotify-pitch",
+        "release-engine",
+        "release-and-dsp",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-extract-metadata-from-track",
+      "source": "./plugins/artispreneur-extract-metadata-from-track",
+      "displayName": "Artispreneur Metadata Extractor",
+      "description": "Metadata Extractor: Clean, complete metadata for every track in your catalog. Use when an artist, manager or label asks for this (Catalogue). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "catalogue",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "catalogue",
+        "release-team",
+        "metadata",
+        "isrc",
+        "credits"
+      ],
+      "keywords": [
+        "metadata",
+        "isrc",
+        "credits",
+        "metadata-extractor",
+        "catalogue",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-transcribe-lyrics",
+      "source": "./plugins/artispreneur-transcribe-lyrics",
+      "displayName": "Artispreneur Lyric Transcriber",
+      "description": "Lyric Transcriber: Clean, formatted lyrics ready for DSPs, videos, and liner notes. Use when an artist, manager or label asks for this (Catalogue). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "catalogue",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "catalogue",
+        "content-team",
+        "lyrics",
+        "lyric-sheet"
+      ],
+      "keywords": [
+        "lyrics",
+        "lyric-sheet",
+        "lyric-transcriber",
+        "catalogue",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-upload-track-to-catalogue",
+      "source": "./plugins/artispreneur-upload-track-to-catalogue",
+      "displayName": "Artispreneur Catalog Upload",
+      "description": "Catalog Upload: One complete catalog record per track: metadata, credits, splits, rights and registration status. Use when an artist, manager or label asks for this (Catalogue). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "catalogue",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "catalogue",
+        "release-team",
+        "catalog",
+        "isrc",
+        "upc"
+      ],
+      "keywords": [
+        "catalog",
+        "isrc",
+        "upc",
+        "catalog-upload",
+        "catalogue",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-create-content-calendar",
+      "source": "./plugins/artispreneur-create-content-calendar",
+      "displayName": "Artispreneur Content Calendar",
+      "description": "Content Calendar: A posting plan you can actually keep up with. Use when an artist, manager or label asks for this (Content & marketing). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "content-and-marketing",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "content-and-marketing",
+        "content-team",
+        "content-calendar",
+        "social-media-plan"
+      ],
+      "keywords": [
+        "content-calendar",
+        "social-media-plan",
+        "content-and-marketing",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-generate-social-media-content",
+      "source": "./plugins/artispreneur-generate-social-media-content",
+      "displayName": "Artispreneur Social Content Pack",
+      "description": "Social Content Pack: Platform-native posts in your voice, ready to publish. Use when an artist, manager or label asks for this (Content & marketing). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "content-and-marketing",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "content-and-marketing",
+        "content-team",
+        "social-media-posts",
+        "captions",
+        "instagram",
+        "tiktok"
+      ],
+      "keywords": [
+        "social-media-posts",
+        "captions",
+        "instagram",
+        "tiktok",
+        "social-content-pack",
+        "content-and-marketing",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-create-lyric-video",
+      "source": "./plugins/artispreneur-create-lyric-video",
+      "displayName": "Artispreneur Lyric Video",
+      "description": "Lyric Video: Plan a kinetic lyric video: timed lyric lines, format, style and a scene list ready for an editor to render. Use when an artist, manager or label asks for this (Content & marketing). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "content-and-marketing",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "content-and-marketing",
+        "content-team",
+        "lyric-video",
+        "music-video",
+        "visualizer"
+      ],
+      "keywords": [
+        "lyric-video",
+        "music-video",
+        "visualizer",
+        "content-and-marketing",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-write-music-video-treatment",
+      "source": "./plugins/artispreneur-write-music-video-treatment",
+      "displayName": "Artispreneur Video Treatment",
+      "description": "Video Treatment: A shoot-ready treatment a director or friend-with-a-camera can run with. Use when an artist, manager or label asks for this (Content & marketing). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "content-and-marketing",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "content-and-marketing",
+        "content-team",
+        "video-treatment",
+        "video-concept",
+        "shot-list"
+      ],
+      "keywords": [
+        "video-treatment",
+        "video-concept",
+        "shot-list",
+        "content-and-marketing",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-upload-music-video-to-youtube",
+      "source": "./plugins/artispreneur-upload-music-video-to-youtube",
+      "displayName": "Artispreneur YouTube Upload",
+      "description": "YouTube Upload: Everything ready to upload your video to YouTube. Use when an artist, manager or label asks for this (Content & marketing). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "content-and-marketing",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "content-and-marketing",
+        "content-team",
+        "youtube",
+        "official-artist-channel",
+        "video-seo"
+      ],
+      "keywords": [
+        "youtube",
+        "official-artist-channel",
+        "video-seo",
+        "youtube-upload",
+        "content-and-marketing",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-analyze-social-media-engagement",
+      "source": "./plugins/artispreneur-analyze-social-media-engagement",
+      "displayName": "Artispreneur Engagement Audit",
+      "description": "Engagement Audit: See what's working, what's not, and what to post next. Use when an artist, manager or label asks for this (Content & marketing). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "content-and-marketing",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "content-and-marketing",
+        "content-team",
+        "engagement-audit",
+        "social-analytics"
+      ],
+      "keywords": [
+        "engagement-audit",
+        "social-analytics",
+        "content-and-marketing",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-create-merch-designs",
+      "source": "./plugins/artispreneur-create-merch-designs",
+      "displayName": "Artispreneur Merch Designs",
+      "description": "Merch Designs: Merch your fans actually want to wear. Use when an artist, manager or label asks for this (Merch). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "merch",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "merch",
+        "content-team",
+        "merchandise",
+        "t-shirt-design"
+      ],
+      "keywords": [
+        "merch",
+        "merchandise",
+        "t-shirt-design",
+        "merch-designs",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-set-up-merch-drop-shipping",
+      "source": "./plugins/artispreneur-set-up-merch-drop-shipping",
+      "displayName": "Artispreneur Merch Fulfillment",
+      "description": "Merch Fulfillment: Print-on-demand merch with zero inventory risk. Use when an artist, manager or label asks for this (Merch). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "merch",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "merch",
+        "business-team",
+        "print-on-demand",
+        "merch-fulfillment"
+      ],
+      "keywords": [
+        "print-on-demand",
+        "merch-fulfillment",
+        "merch",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-add-music-to-collaborative-playlist",
+      "source": "./plugins/artispreneur-add-music-to-collaborative-playlist",
+      "displayName": "Artispreneur Playlist Pitching",
+      "description": "Playlist Pitching: Real playlist curators, honest pitches, no pay-for-play. Use when an artist, manager or label asks for this (Outreach). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "outreach",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "outreach",
+        "booking-team",
+        "playlist-pitching",
+        "playlists",
+        "spotify-playlists"
+      ],
+      "keywords": [
+        "playlist-pitching",
+        "playlists",
+        "spotify-playlists",
+        "outreach",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-artist-profile",
+      "source": "./plugins/artispreneur-artist-profile",
+      "displayName": "Artispreneur Artist Profile",
+      "description": "Artist Profile: One complete artist record (identity, genre, stage, city, links) with a career-stage assessment and gaps. Use when an artist, manager or label asks for this (Career). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "career",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "career",
+        "home-base",
+        "artist-profile",
+        "career-stage"
+      ],
+      "keywords": [
+        "artist-profile",
+        "career-stage",
+        "career",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-artist-goals",
+      "source": "./plugins/artispreneur-artist-goals",
+      "displayName": "Artispreneur Goal Setting",
+      "description": "Goal Setting: Turn \"I want to blow up\" into 1–3 dated goals you can actually hit. Use when an artist, manager or label asks for this (Career). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "career",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "career",
+        "home-base",
+        "goal-setting",
+        "career-goals"
+      ],
+      "keywords": [
+        "goal-setting",
+        "career-goals",
+        "career",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-weekly-win-plan",
+      "source": "./plugins/artispreneur-weekly-win-plan",
+      "displayName": "Artispreneur Weekly Win Plan",
+      "description": "Weekly Win Plan: Your top 3 moves this week, ranked by what actually moves the needle. Use when an artist, manager or label asks for this (Career). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "career",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "career",
+        "home-base",
+        "weekly-plan",
+        "priorities"
+      ],
+      "keywords": [
+        "weekly-plan",
+        "priorities",
+        "weekly-win-plan",
+        "career",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-brand-positioning",
+      "source": "./plugins/artispreneur-brand-positioning",
+      "displayName": "Artispreneur Brand Positioning",
+      "description": "Brand Positioning: The one true thing about you that no other artist in your genre can say. Use when an artist, manager or label asks for this (Studio). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "studio",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "studio",
+        "content-team",
+        "brand-positioning",
+        "artist-brand",
+        "niche"
+      ],
+      "keywords": [
+        "brand-positioning",
+        "artist-brand",
+        "niche",
+        "studio",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-pr-campaign",
+      "source": "./plugins/artispreneur-pr-campaign",
+      "displayName": "Artispreneur PR Campaign",
+      "description": "PR Campaign: A 5-email press sequence built around one real, newsworthy hook. Use when an artist, manager or label asks for this (Outreach). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "outreach",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "outreach",
+        "press-team",
+        "pr-campaign",
+        "music-pr",
+        "press-release"
+      ],
+      "keywords": [
+        "pr-campaign",
+        "music-pr",
+        "press-release",
+        "outreach",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-media-outreach",
+      "source": "./plugins/artispreneur-media-outreach",
+      "displayName": "Artispreneur Media Pitching",
+      "description": "Media Pitching: Personal pitch emails for every journalist and blog on your list. Use when an artist, manager or label asks for this (Outreach). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "outreach",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "outreach",
+        "outreach-team",
+        "media-pitching",
+        "music-blogs",
+        "journalists"
+      ],
+      "keywords": [
+        "media-pitching",
+        "music-blogs",
+        "journalists",
+        "outreach",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-playlist-outreach",
+      "source": "./plugins/artispreneur-playlist-outreach",
+      "displayName": "Artispreneur Playlist Curator Pitching",
+      "description": "Playlist Curator Pitching: Short, curator-friendly pitches matched to playlists in your genre. Use when an artist, manager or label asks for this (Outreach). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "outreach",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "outreach",
+        "outreach-team",
+        "playlist-curators",
+        "playlist-pitch"
+      ],
+      "keywords": [
+        "playlist-curators",
+        "playlist-pitch",
+        "playlist-curator-pitching",
+        "outreach",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-booking-outreach",
+      "source": "./plugins/artispreneur-booking-outreach",
+      "displayName": "Artispreneur Booking Outreach",
+      "description": "Booking Outreach: Venue and promoter outreach for the cities and dates you want. Use when an artist, manager or label asks for this (Outreach). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "outreach",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "outreach",
+        "outreach-team",
+        "booking",
+        "gigs",
+        "venues",
+        "promoters",
+        "tour"
+      ],
+      "keywords": [
+        "booking",
+        "gigs",
+        "venues",
+        "promoters",
+        "tour",
+        "booking-outreach",
+        "outreach",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-directory-search",
+      "source": "./plugins/artispreneur-directory-search",
+      "displayName": "Artispreneur Industry Contact Finder",
+      "description": "Industry Contact Finder: Plan a high-fit list of blogs, playlists, radio, podcasts, press and venues, and organize contacts you supply. Use when an artist, manager or label asks for this (Outreach). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "outreach",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "outreach",
+        "booking-team",
+        "industry-contacts",
+        "blogs",
+        "radio",
+        "podcasts",
+        "venues"
+      ],
+      "keywords": [
+        "industry-contacts",
+        "blogs",
+        "radio",
+        "podcasts",
+        "venues",
+        "industry-contact-finder",
+        "outreach",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-distribution-readiness",
+      "source": "./plugins/artispreneur-distribution-readiness",
+      "displayName": "Artispreneur Distribution Readiness",
+      "description": "Distribution Readiness: Everything checked before you upload — and the right distributor for you. Use when an artist, manager or label asks for this (Release & DSP). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "release-and-dsp",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "release-and-dsp",
+        "release-team",
+        "distribution",
+        "release-checklist",
+        "distributor"
+      ],
+      "keywords": [
+        "distribution",
+        "release-checklist",
+        "distributor",
+        "distribution-readiness",
+        "release-and-dsp",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-royalty-readiness",
+      "source": "./plugins/artispreneur-royalty-readiness",
+      "displayName": "Artispreneur Royalty Readiness",
+      "description": "Royalty Readiness: Make sure every royalty stream you're owed has somewhere to land. Use when an artist, manager or label asks for this (Publishing & PRO). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "publishing-and-pro",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "publishing-and-pro",
+        "business-team",
+        "royalties",
+        "publishing-admin",
+        "soundexchange"
+      ],
+      "keywords": [
+        "royalties",
+        "publishing-admin",
+        "soundexchange",
+        "royalty-readiness",
+        "publishing-and-pro",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-budget-planning",
+      "source": "./plugins/artispreneur-budget-planning",
+      "displayName": "Artispreneur Budget & Runway",
+      "description": "Budget & Runway: A plain-language budget and runway for your release, tour, or year. Use when an artist, manager or label asks for this (Finance). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "finance",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "finance",
+        "business-team",
+        "budget",
+        "runway",
+        "tour-budget",
+        "release-budget"
+      ],
+      "keywords": [
+        "budget",
+        "runway",
+        "tour-budget",
+        "release-budget",
+        "budget-and-runway",
+        "finance",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-contract-intake",
+      "source": "./plugins/artispreneur-contract-intake",
+      "displayName": "Artispreneur Contract Explainer",
+      "description": "Contract Explainer: Understand any music contract in plain English before you sign. Use when an artist, manager or label asks for this (Contracts). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "contracts",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "contracts",
+        "business-team",
+        "music-contract",
+        "record-deal",
+        "contract-review"
+      ],
+      "keywords": [
+        "music-contract",
+        "record-deal",
+        "contract-review",
+        "contract-explainer",
+        "contracts",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-legal-business-checklist",
+      "source": "./plugins/artispreneur-legal-business-checklist",
+      "displayName": "Artispreneur Business Setup Checklist",
+      "description": "Business Setup Checklist: The business basics — entity, copyright, licensing, PRO — in the right order. Use when an artist, manager or label asks for this (Legal entity). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "legal-entity",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "legal-entity",
+        "business-team",
+        "legal-checklist",
+        "copyright",
+        "trademark"
+      ],
+      "keywords": [
+        "legal-checklist",
+        "copyright",
+        "trademark",
+        "business-setup-checklist",
+        "legal-entity",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-knowledge-ingestion",
+      "source": "./plugins/artispreneur-knowledge-ingestion",
+      "displayName": "Artispreneur Teach Your Agent",
+      "description": "Teach Your Agent: Turn pasted bios, contracts and past EPKs into confirmed, structured facts and a list of conflicts. Use when an artist, manager or label asks for this (Meta). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "meta",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "meta",
+        "home-base",
+        "documents",
+        "facts",
+        "knowledge-base"
+      ],
+      "keywords": [
+        "documents",
+        "facts",
+        "knowledge-base",
+        "teach-your-agent",
+        "meta",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-build-an-agent",
+      "source": "./plugins/artispreneur-build-an-agent",
+      "displayName": "Artispreneur Build an Agent",
+      "description": "Build an Agent: Design a project sub-agent: mission, scope, skills, guardrails and starter prompts. Use when an artist, manager or label asks for this (Meta). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "meta",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "meta",
+        "home-base",
+        "ai-agent",
+        "subagent",
+        "agent-design"
+      ],
+      "keywords": [
+        "ai-agent",
+        "subagent",
+        "agent-design",
+        "build-an-agent",
+        "meta",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-build-a-skill",
+      "source": "./plugins/artispreneur-build-a-skill",
+      "displayName": "Artispreneur Build a Skill",
+      "description": "Build a Skill: Turn your workflow into a tool you can reuse, share, or sell. Use when an artist, manager or label asks for this (Meta). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+      "category": "meta",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "skill",
+        "meta",
+        "home-base",
+        "skill-md",
+        "agent-skill",
+        "workflow"
+      ],
+      "keywords": [
+        "skill-md",
+        "agent-skill",
+        "workflow",
+        "build-a-skill",
+        "meta",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-home-base",
+      "source": "./plugins/artispreneur-home-base",
+      "displayName": "Artispreneur Home Base",
+      "description": "Artispreneur Home Base desk agent for independent musicians: Your HQ: priorities, planning, and anything cross-team. Includes the desk as a Claude subagent and as a skill for claude.ai chat. Drafts only; nothing is sent, filed or paid.",
+      "category": "agents",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "agent",
+        "desk",
+        "home-base",
+        "finance",
+        "career",
+        "meta"
+      ],
+      "keywords": [
+        "home-base",
+        "music-agent",
+        "business-plan",
+        "artist-profile",
+        "goal-setting",
+        "weekly-win-plan",
+        "teach-your-agent",
+        "build-an-agent",
+        "build-a-skill",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-business-team",
+      "source": "./plugins/artispreneur-business-team",
+      "displayName": "Artispreneur Business Team",
+      "description": "Artispreneur Business Team desk agent for independent musicians: Business plan, contracts, split sheets, budgets, registration. Includes the desk as a Claude subagent and as a skill for claude.ai chat. Drafts only; nothing is sent, filed or paid.",
+      "category": "agents",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "agent",
+        "desk",
+        "business-team",
+        "studio",
+        "contracts",
+        "legal-entity",
+        "finance",
+        "merch",
+        "publishing-and-pro"
+      ],
+      "keywords": [
+        "business-team",
+        "music-agent",
+        "brand-logo",
+        "brand-guidelines",
+        "split-sheet-agreement",
+        "music-licensing-brief",
+        "ein-registration",
+        "llc-formation",
+        "c-corp-formation",
+        "business-bank-account",
+        "expense-manager",
+        "business-tax-filing",
+        "merch-fulfillment",
+        "royalty-readiness",
+        "budget-and-runway",
+        "contract-explainer",
+        "business-setup-checklist",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-press-team",
+      "source": "./plugins/artispreneur-press-team",
+      "displayName": "Artispreneur Press Team",
+      "description": "Artispreneur Press Team desk agent for independent musicians: Bios, EPKs, press releases, and media pitches. Includes the desk as a Claude subagent and as a skill for claude.ai chat. Drafts only; nothing is sent, filed or paid.",
+      "category": "agents",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "agent",
+        "desk",
+        "press-team",
+        "studio",
+        "outreach"
+      ],
+      "keywords": [
+        "press-team",
+        "music-agent",
+        "epk-builder",
+        "artist-bio-writer",
+        "pr-campaign",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-release-team",
+      "source": "./plugins/artispreneur-release-team",
+      "displayName": "Artispreneur Release Team",
+      "description": "Artispreneur Release Team desk agent for independent musicians: Rollouts, distribution, and royalty registration. Includes the desk as a Claude subagent and as a skill for claude.ai chat. Drafts only; nothing is sent, filed or paid.",
+      "category": "agents",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "agent",
+        "desk",
+        "release-team",
+        "finance",
+        "publishing-and-pro",
+        "release-and-dsp",
+        "catalogue"
+      ],
+      "keywords": [
+        "release-team",
+        "music-agent",
+        "royalty-tracker",
+        "pro-registration",
+        "track-registration",
+        "unclaimed-royalties",
+        "dsp-setup",
+        "release-engine",
+        "metadata-extractor",
+        "catalog-upload",
+        "distribution-readiness",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-booking-team",
+      "source": "./plugins/artispreneur-booking-team",
+      "displayName": "Artispreneur Booking Team",
+      "description": "Artispreneur Booking Team desk agent for independent musicians: Venues, tours, and booking pitches from the live directory. Includes the desk as a Claude subagent and as a skill for claude.ai chat. Drafts only; nothing is sent, filed or paid.",
+      "category": "agents",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "agent",
+        "desk",
+        "booking-team",
+        "outreach"
+      ],
+      "keywords": [
+        "booking-team",
+        "music-agent",
+        "playlist-pitching",
+        "industry-contact-finder",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-content-team",
+      "source": "./plugins/artispreneur-content-team",
+      "displayName": "Artispreneur Content Team",
+      "description": "Artispreneur Content Team desk agent for independent musicians: Captions, threads, video concepts, and newsletters. Includes the desk as a Claude subagent and as a skill for claude.ai chat. Drafts only; nothing is sent, filed or paid.",
+      "category": "agents",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "agent",
+        "desk",
+        "content-team",
+        "catalogue",
+        "content-and-marketing",
+        "merch",
+        "studio"
+      ],
+      "keywords": [
+        "content-team",
+        "music-agent",
+        "lyric-transcriber",
+        "content-calendar",
+        "social-content-pack",
+        "lyric-video",
+        "video-treatment",
+        "youtube-upload",
+        "engagement-audit",
+        "merch-designs",
+        "brand-positioning",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    },
+    {
+      "name": "artispreneur-outreach-team",
+      "source": "./plugins/artispreneur-outreach-team",
+      "displayName": "Artispreneur Outreach Team",
+      "description": "Artispreneur Outreach Team desk agent for independent musicians: Pitch emails for bookings, press and partnerships, plus submission kits and follow-up plans. Includes the desk as a Claude subagent and as a skill for claude.ai chat. Drafts only; nothing is sent, filed or paid.",
+      "category": "agents",
+      "tags": [
+        "music",
+        "music-business",
+        "independent-artists",
+        "agent",
+        "desk",
+        "outreach-team",
+        "outreach"
+      ],
+      "keywords": [
+        "outreach-team",
+        "music-agent",
+        "media-pitching",
+        "playlist-curator-pitching",
+        "booking-outreach",
+        "music",
+        "music-business",
+        "independent-artists",
+        "artispreneur"
+      ]
+    }
+  ]
+}

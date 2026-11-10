@@ -1,0 +1,29 @@
+{
+  "name": "artispreneur-create-llc",
+  "displayName": "Artispreneur LLC Formation",
+  "version": "1.2.0",
+  "description": "LLC Formation: Separate your music money from your personal money. Use when an artist, manager or label asks for this (Legal entity). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+  "author": {
+    "name": "Artispreneur Inc.",
+    "url": "https://www.artispreneur.com"
+  },
+  "homepage": "https://www.artispreneur.com/developers",
+  "repository": "https://github.com/diamitani/artispreneur-claude-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "llc",
+    "business-formation",
+    "music-llc",
+    "llc-formation",
+    "legal-entity",
+    "music",
+    "music-business",
+    "independent-artists",
+    "artispreneur"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.artispreneur.com/developers",
+  "supportUrl": "https://www.artispreneur.com/support",
+  "privacyPolicyUrl": "https://www.artispreneur.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.artispreneur.com/legal/terms"
+}

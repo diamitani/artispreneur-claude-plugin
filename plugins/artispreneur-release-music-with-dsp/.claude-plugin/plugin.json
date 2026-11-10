@@ -1,0 +1,30 @@
+{
+  "name": "artispreneur-release-music-with-dsp",
+  "displayName": "Artispreneur Release Engine",
+  "version": "1.2.0",
+  "description": "Release Engine: A release plan that works backward from drop day. Use when an artist, manager or label asks for this (Release & DSP). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+  "author": {
+    "name": "Artispreneur Inc.",
+    "url": "https://www.artispreneur.com"
+  },
+  "homepage": "https://www.artispreneur.com/developers",
+  "repository": "https://github.com/diamitani/artispreneur-claude-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "release-plan",
+    "rollout",
+    "music-distribution",
+    "spotify-pitch",
+    "release-engine",
+    "release-and-dsp",
+    "music",
+    "music-business",
+    "independent-artists",
+    "artispreneur"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.artispreneur.com/developers",
+  "supportUrl": "https://www.artispreneur.com/support",
+  "privacyPolicyUrl": "https://www.artispreneur.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.artispreneur.com/legal/terms"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "artispreneur-legal-business-checklist",
+  "displayName": "Artispreneur Business Setup Checklist",
+  "version": "1.2.0",
+  "description": "Business Setup Checklist: The business basics — entity, copyright, licensing, PRO — in the right order. Use when an artist, manager or label asks for this (Legal entity). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+  "author": {
+    "name": "Artispreneur Inc.",
+    "url": "https://www.artispreneur.com"
+  },
+  "homepage": "https://www.artispreneur.com/developers",
+  "repository": "https://github.com/diamitani/artispreneur-claude-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "legal-checklist",
+    "copyright",
+    "trademark",
+    "business-setup-checklist",
+    "legal-entity",
+    "music",
+    "music-business",
+    "independent-artists",
+    "artispreneur"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.artispreneur.com/developers",
+  "supportUrl": "https://www.artispreneur.com/support",
+  "privacyPolicyUrl": "https://www.artispreneur.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.artispreneur.com/legal/terms"
+}

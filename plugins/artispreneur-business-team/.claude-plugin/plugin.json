@@ -1,0 +1,41 @@
+{
+  "name": "artispreneur-business-team",
+  "displayName": "Artispreneur Business Team",
+  "version": "1.2.0",
+  "description": "Artispreneur Business Team desk agent for independent musicians: Business plan, contracts, split sheets, budgets, registration. Includes the desk as a Claude subagent and as a skill for claude.ai chat. Drafts only; nothing is sent, filed or paid.",
+  "author": {
+    "name": "Artispreneur Inc.",
+    "url": "https://www.artispreneur.com"
+  },
+  "homepage": "https://www.artispreneur.com/developers",
+  "repository": "https://github.com/diamitani/artispreneur-claude-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "business-team",
+    "music-agent",
+    "brand-logo",
+    "brand-guidelines",
+    "split-sheet-agreement",
+    "music-licensing-brief",
+    "ein-registration",
+    "llc-formation",
+    "c-corp-formation",
+    "business-bank-account",
+    "expense-manager",
+    "business-tax-filing",
+    "merch-fulfillment",
+    "royalty-readiness",
+    "budget-and-runway",
+    "contract-explainer",
+    "business-setup-checklist",
+    "music",
+    "music-business",
+    "independent-artists",
+    "artispreneur"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.artispreneur.com/developers",
+  "supportUrl": "https://www.artispreneur.com/support",
+  "privacyPolicyUrl": "https://www.artispreneur.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.artispreneur.com/legal/terms"
+}

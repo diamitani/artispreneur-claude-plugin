@@ -1,0 +1,28 @@
+{
+  "name": "artispreneur-playlist-outreach",
+  "displayName": "Artispreneur Playlist Curator Pitching",
+  "version": "1.2.0",
+  "description": "Playlist Curator Pitching: Short, curator-friendly pitches matched to playlists in your genre. Use when an artist, manager or label asks for this (Outreach). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+  "author": {
+    "name": "Artispreneur Inc.",
+    "url": "https://www.artispreneur.com"
+  },
+  "homepage": "https://www.artispreneur.com/developers",
+  "repository": "https://github.com/diamitani/artispreneur-claude-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "playlist-curators",
+    "playlist-pitch",
+    "playlist-curator-pitching",
+    "outreach",
+    "music",
+    "music-business",
+    "independent-artists",
+    "artispreneur"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.artispreneur.com/developers",
+  "supportUrl": "https://www.artispreneur.com/support",
+  "privacyPolicyUrl": "https://www.artispreneur.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.artispreneur.com/legal/terms"
+}

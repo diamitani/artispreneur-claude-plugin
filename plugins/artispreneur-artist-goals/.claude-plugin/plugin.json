@@ -1,0 +1,27 @@
+{
+  "name": "artispreneur-artist-goals",
+  "displayName": "Artispreneur Goal Setting",
+  "version": "1.2.0",
+  "description": "Goal Setting: Turn \"I want to blow up\" into 1–3 dated goals you can actually hit. Use when an artist, manager or label asks for this (Career). One Artispreneur skill; drafts only, nothing is sent, filed or paid.",
+  "author": {
+    "name": "Artispreneur Inc.",
+    "url": "https://www.artispreneur.com"
+  },
+  "homepage": "https://www.artispreneur.com/developers",
+  "repository": "https://github.com/diamitani/artispreneur-claude-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "goal-setting",
+    "career-goals",
+    "career",
+    "music",
+    "music-business",
+    "independent-artists",
+    "artispreneur"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.artispreneur.com/developers",
+  "supportUrl": "https://www.artispreneur.com/support",
+  "privacyPolicyUrl": "https://www.artispreneur.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.artispreneur.com/legal/terms"
+}

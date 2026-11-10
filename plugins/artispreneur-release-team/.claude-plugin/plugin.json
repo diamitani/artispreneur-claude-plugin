@@ -1,0 +1,35 @@
+{
+  "name": "artispreneur-release-team",
+  "displayName": "Artispreneur Release Team",
+  "version": "1.2.0",
+  "description": "Artispreneur Release Team desk agent for independent musicians: Rollouts, distribution, and royalty registration. Includes the desk as a Claude subagent and as a skill for claude.ai chat. Drafts only; nothing is sent, filed or paid.",
+  "author": {
+    "name": "Artispreneur Inc.",
+    "url": "https://www.artispreneur.com"
+  },
+  "homepage": "https://www.artispreneur.com/developers",
+  "repository": "https://github.com/diamitani/artispreneur-claude-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "release-team",
+    "music-agent",
+    "royalty-tracker",
+    "pro-registration",
+    "track-registration",
+    "unclaimed-royalties",
+    "dsp-setup",
+    "release-engine",
+    "metadata-extractor",
+    "catalog-upload",
+    "distribution-readiness",
+    "music",
+    "music-business",
+    "independent-artists",
+    "artispreneur"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.artispreneur.com/developers",
+  "supportUrl": "https://www.artispreneur.com/support",
+  "privacyPolicyUrl": "https://www.artispreneur.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.artispreneur.com/legal/terms"
+}
